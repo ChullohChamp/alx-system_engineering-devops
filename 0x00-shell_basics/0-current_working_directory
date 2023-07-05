@@ -1,2 +1,3 @@
 #!/bin/bash
-"cwd=$(pwd -p) echo -e "Current working directory": $cwd\n"
+pwd \n
+
