@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c "%A %U %G %n" _ls_
+1rwxrwxrwx 1 root root 7 _ls_
