@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c "%A %U %G %n" _ls_
+ln -s /bin/ls  _ls_\n
