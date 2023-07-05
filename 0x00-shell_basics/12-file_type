@@ -1,2 +1,2 @@
 #!/bin/bash
-file -b /tmp/iamafile
+output=$(file -b "/tmp/iamafile" 2>/dev/null); echo "tmp/iamafile: ${ouput}"
