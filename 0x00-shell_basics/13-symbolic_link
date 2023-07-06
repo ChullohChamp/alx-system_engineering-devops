@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s alx-system_engineering-devops _ls_
+ln -s /bin/ls _ls_
