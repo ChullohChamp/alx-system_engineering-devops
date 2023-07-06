@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -exec chomd ugo+rx {} +
+find . -type f -exec chomd ugo-rx {} +
