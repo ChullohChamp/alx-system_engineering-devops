@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -exec chomd ugo+rx {} +
+sudo find . -type d -exec chmod ugo+rx {}
